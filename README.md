@@ -1,7 +1,11 @@
 # React Native - Detox - Jest
 
 To test flow
-`$ npm run test:e2e`
+```sh
+npm run test:e2e
+```
 
 To test function
-`$ npm run test`
+```sh
+npm run test
+```
